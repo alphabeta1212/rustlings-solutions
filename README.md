@@ -1,6 +1,6 @@
 # rustlings 🦀❤️
 
-My solutions to rustlings exercises for reference. 
+Complete solutions to rustlings exercises. 
 
 _____
 
